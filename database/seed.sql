@@ -1,0 +1,2 @@
+-- Seed data
+-- TODO: Insert initial admin user, sample data

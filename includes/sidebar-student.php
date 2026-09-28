@@ -1,0 +1,2 @@
+<?php
+// sidebar-student.php
